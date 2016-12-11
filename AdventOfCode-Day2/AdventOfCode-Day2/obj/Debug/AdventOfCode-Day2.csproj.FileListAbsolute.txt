@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\AdventOfCode\AdventOfCode-Day2\AdventOfCode-Day2\bin\Debug\AdventOfCode-Day2.exe.config
+C:\Users\User\Desktop\AdventOfCode\AdventOfCode-Day2\AdventOfCode-Day2\bin\Debug\AdventOfCode-Day2.exe
+C:\Users\User\Desktop\AdventOfCode\AdventOfCode-Day2\AdventOfCode-Day2\bin\Debug\AdventOfCode-Day2.pdb
+C:\Users\User\Desktop\AdventOfCode\AdventOfCode-Day2\AdventOfCode-Day2\obj\Debug\AdventOfCode-Day2.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\AdventOfCode\AdventOfCode-Day2\AdventOfCode-Day2\obj\Debug\AdventOfCode-Day2.exe
+C:\Users\User\Desktop\AdventOfCode\AdventOfCode-Day2\AdventOfCode-Day2\obj\Debug\AdventOfCode-Day2.pdb

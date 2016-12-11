@@ -1,0 +1,11 @@
+C:\Users\DavidMimnagh\Desktop\AdventOfCode\AdventOfCode-Day4\AdventOfCode-Day4\bin\Debug\AdventOfCode-Day4.exe.config
+C:\Users\DavidMimnagh\Desktop\AdventOfCode\AdventOfCode-Day4\AdventOfCode-Day4\bin\Debug\AdventOfCode-Day4.exe
+C:\Users\DavidMimnagh\Desktop\AdventOfCode\AdventOfCode-Day4\AdventOfCode-Day4\bin\Debug\AdventOfCode-Day4.pdb
+C:\Users\DavidMimnagh\Desktop\AdventOfCode\AdventOfCode-Day4\AdventOfCode-Day4\obj\Debug\AdventOfCode-Day4.exe
+C:\Users\DavidMimnagh\Desktop\AdventOfCode\AdventOfCode-Day4\AdventOfCode-Day4\obj\Debug\AdventOfCode-Day4.pdb
+C:\Users\User\Desktop\AdventOfCode\AdventOfCode-Day4\AdventOfCode-Day4\bin\Debug\AdventOfCode-Day4.exe.config
+C:\Users\User\Desktop\AdventOfCode\AdventOfCode-Day4\AdventOfCode-Day4\bin\Debug\AdventOfCode-Day4.exe
+C:\Users\User\Desktop\AdventOfCode\AdventOfCode-Day4\AdventOfCode-Day4\bin\Debug\AdventOfCode-Day4.pdb
+C:\Users\User\Desktop\AdventOfCode\AdventOfCode-Day4\AdventOfCode-Day4\obj\Debug\AdventOfCode-Day4.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\AdventOfCode\AdventOfCode-Day4\AdventOfCode-Day4\obj\Debug\AdventOfCode-Day4.exe
+C:\Users\User\Desktop\AdventOfCode\AdventOfCode-Day4\AdventOfCode-Day4\obj\Debug\AdventOfCode-Day4.pdb

@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\AdventOfCode\AdventOfCode-Day6\AdventOfCode-Day6\bin\Debug\AdventOfCode-Day6.exe.config
+C:\Users\User\Desktop\AdventOfCode\AdventOfCode-Day6\AdventOfCode-Day6\bin\Debug\AdventOfCode-Day6.exe
+C:\Users\User\Desktop\AdventOfCode\AdventOfCode-Day6\AdventOfCode-Day6\bin\Debug\AdventOfCode-Day6.pdb
+C:\Users\User\Desktop\AdventOfCode\AdventOfCode-Day6\AdventOfCode-Day6\obj\Debug\AdventOfCode-Day6.exe
+C:\Users\User\Desktop\AdventOfCode\AdventOfCode-Day6\AdventOfCode-Day6\obj\Debug\AdventOfCode-Day6.pdb
+C:\Users\User\Desktop\AdventOfCode\AdventOfCode-Day6\AdventOfCode-Day6\obj\Debug\AdventOfCode-Day6.csprojResolveAssemblyReference.cache
